@@ -21,4 +21,4 @@ I love this place for it **good nature** and **Developing harbour** and there is
 * Sea food
 * Traditional desserts
 
-
+[click here for my picture](MyStats.md)
