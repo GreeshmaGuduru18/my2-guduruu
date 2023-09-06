@@ -13,4 +13,10 @@ I love this place for it **good nature** and **Developing harbour** and there is
 3. Shop at Machilipatnam bazaar
 4. visit temples
 
+* Andhra cuisine
+    * chicken curry
+    * Gongura mutton
+* Sea food
+* Traditional desserts
+
 
