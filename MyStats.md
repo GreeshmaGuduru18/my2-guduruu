@@ -15,3 +15,14 @@ These are the sports I enjoy playing and also I recommend to play.
 |Cricket |team work|13|
 | Badminton |Total body workout|16|
 | Football|teaches co-ordination|12|
+
+---
+### Favourite scientist's quotes
+
+> "The most important thing is to never stop  learning." - *Albert Einstein*
+
+> "To invent, you need a good imagination and a pile of junk." - *Thomas Edison*
+
+
+
+
