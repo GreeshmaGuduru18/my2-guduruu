@@ -19,9 +19,11 @@ These are the sports I enjoy playing and also I recommend to play.
 ---
 ### Favourite scientist's quotes
 
-> "The most important thing is to never stop  learning." - *Albert Einstein*
+> The most important thing is to never stop  learning.
+> - *Albert Einstein*
 
-> "To invent, you need a good imagination and a pile of junk." - *Thomas Edison*
+> To invent, you need a good imagination and a pile of junk.
+> - *Thomas Edison*
 
 
 
