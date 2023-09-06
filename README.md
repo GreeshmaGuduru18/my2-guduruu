@@ -6,11 +6,11 @@ I love this place for it **good nature** and **Developing harbour** and there is
 ---
 ### Machilipatnam bucket list activities
 
-1.Visit Manginapudi Beach
-2.Try local cuisine
-    1.prawns
-    2.crab
-3.Shop at Machilipatnam bazaar
-4.visit temples
+1. Visit Manginapudi Beach
+2. Try local cuisine
+    1. prawns
+    2. crab
+3. Shop at Machilipatnam bazaar
+4. visit temples
 
 
