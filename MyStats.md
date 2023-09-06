@@ -7,7 +7,7 @@ I love doing handicrafts. During my free time I decorate my house with my crafts
 ---
 ### Recommended sports
 
-These are the sports I enjoy playing and also I recommd to play.
+These are the sports I enjoy playing and also I recommend to play.
 
 |Name of the sport |reason to play|avg hours per week|
 --- | --- | ---|
