@@ -25,7 +25,6 @@ These are the sports I enjoy playing and also I recommend to play.
 
 ### Code Fencing
 
-> How to use the whole SVG with a <use> tag?
 
 > [Content from Stack OverFlow ]<https://stackoverflow.com/questions/13069446/simple-fill-pattern-in-svg-diagonal-hatching>
 ```
